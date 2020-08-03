@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Machine Learning.
+- 💬 Ask me about Machine Learning, Graph Theory, Optimisation techniques.
+- 📫 How to reach me:
+  - [Twitter](https://twitter.com/Akshayextreme)
+  - [LinkedIn](https://www.linkedin.com/in/akshay-nadgire/)
+  - [Gmail](mailto:akshay.n15@gmail.com)
